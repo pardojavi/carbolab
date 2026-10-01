@@ -1,0 +1,14 @@
+{
+  "name": "CARBOLAB",
+  "short_name": "CARBOLAB",
+  "description": "Calculadora de hidratos de carbono para ciclismo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1412",
+  "theme_color": "#0B1412",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
